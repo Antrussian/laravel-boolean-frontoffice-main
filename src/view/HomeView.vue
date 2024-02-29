@@ -25,7 +25,7 @@ export default {
         }
     },
     methods: {
-        // Metodo per passare alla pagina successiva
+        // Metodo per passare alla pagina successiva-
         nextPage() {
             if (this.currentPage < this.lastPage) {
                 this.currentPage++;
